@@ -1,7 +1,3 @@
-
-
-
-
 public class HospitalManagment {
     String hospitalName;
     String patientName;  
